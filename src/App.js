@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <p>
           Testing publish function for react example.
-          view not work why!!!
+          so confused
         </p>
 
       </header>
